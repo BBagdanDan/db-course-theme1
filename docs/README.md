@@ -3,13 +3,13 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [2024] [Денис ШМАТКО]"
+footer: "ECL 2.0 Licensed | Copyright © [2024] [Богдан БІГДАШ]"
 ---
 
 
-**Виконли:** 
+**Виконав:** 
 
-студент 2-го курсу, групи ІО-22<span padding-right:5em></span> Денис ШМАТКО [Телеграм](https://t.me/shmatko_den)
+студент 2-го курсу, групи ІО-22<span padding-right:5em></span> Богдан БІГДАШ [Телеграм](https://t.me/BBagdanDan)
 
 
 
